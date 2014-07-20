@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is my first file.  I added it first to the project..
+=======
+This is my first file.  I added it first to the project.
+new change
+>>>>>>> seo_title
